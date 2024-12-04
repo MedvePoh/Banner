@@ -1,5 +1,6 @@
 body {
-    background: linear-gradient(0deg, #eeeff1 2%, #fef4f0, #eadbd5, #ffefe3)
+    background-color: #000;
+    height: 1000px;
 }
 
 .main {
