@@ -1,0 +1,25 @@
+body {
+    background: linear-gradient(0deg, #eeeff1 2%, #fef4f0, #eadbd5, #ffefe3)
+}
+
+.main {
+    padding: 20px 0 100px;
+}
+
+.container {
+    display: flex;
+    justify-content: center;
+    width: 100%;
+    max-width: 1200px;
+    margin: 0 auto;
+
+}
+
+.image {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 100%;
+    max-width: 800px;
+    height: auto;
+}
